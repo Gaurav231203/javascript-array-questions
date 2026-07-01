@@ -5,4 +5,4 @@ let arr =[2,4,6,8,10];
     return val%2===0;
 
 })
-console.log(evenarr)
+console.log(evenarr);
